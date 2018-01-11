@@ -21,6 +21,10 @@ img, fieldset, a img {
   border: none;
 }
 
+.header__logo .icon {
+    display: none !important;
+}
+
 input[type="text"],
 input[type="email"],
 input[type="tel"],
